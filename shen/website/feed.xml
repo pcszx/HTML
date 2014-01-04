@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:01786A48-B233-41E9-B1C3-4590DA8A7749</id>
+ <title>Page list Atom feed</title>
+ <updated>2014-01-04T00:30:12+01:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:D04358B0-2D96-4A01-A0EA-0EC3CD30DBCD</id>
+  <title>欢迎</title>
+  <title xmlns="urn:iweb:">欢迎</title>
+  <in-navbar xmlns="urn:iweb:">D04358B0-2D96-4A01-A0EA-0EC3CD30DBCD</in-navbar>
+  <link rel="alternate" href="huan_ying.html"/>
+  <updated>2014-01-04T00:30:12.001+01:00</updated>
+  <content>欢迎</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:6DD335A1-8B59-4736-BD9D-9424F0F7BEFF</id>
+  <title>cv</title>
+  <title xmlns="urn:iweb:">cv</title>
+  <in-navbar xmlns="urn:iweb:">6DD335A1-8B59-4736-BD9D-9424F0F7BEFF</in-navbar>
+  <link rel="alternate" href="cv.html"/>
+  <updated>2014-01-04T00:30:12.002+01:00</updated>
+  <content>cv</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:11D52528-84B6-4C85-BC82-66D93D7AB164</id>
+  <title>ressources</title>
+  <title xmlns="urn:iweb:">ressources</title>
+  <in-navbar xmlns="urn:iweb:">11D52528-84B6-4C85-BC82-66D93D7AB164</in-navbar>
+  <link rel="alternate" href="ressources.html"/>
+  <updated>2014-01-04T00:30:12.003+01:00</updated>
+  <content>ressources</content>
+ </entry>
+</feed>

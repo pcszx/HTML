@@ -1,0 +1,141 @@
+.bumper {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget0 a:hover {
+    color: rgb(221, 221, 221);
+    text-decoration: underline;
+}
+#widget0 a:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+#widget0 a {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+body { 
+    -webkit-text-size-adjust: none;
+}
+div { 
+    overflow: visible; 
+}
+img { 
+    border: none; 
+}
+.InlineBlock { 
+    display: inline; 
+}
+.InlineBlock { 
+    display: inline-block; 
+}
+.inline-block {
+    display: inline-block;
+    vertical-align: baseline;
+    margin-bottom:0.3em;
+}
+.inline-block.shape-with-text {
+    vertical-align: bottom;
+}
+.vertical-align-middle-middlebox {
+    display: table;
+}
+.vertical-align-middle-innerbox {
+    display: table-cell;
+    vertical-align: middle;
+}
+div.paragraph {
+    position: relative;
+}
+li.full-width {
+    width: 100;
+}
+
+    *{margin:0; padding:0;}
+
+    ul.aceuil{ list-style:none;}
+        #nav{width:412px; overflow:hidden;margin:0 auto;}
+        #nav li.aceuil{width:120px; height:40px; line-height:40px; border:0px solid #999; margin-right:10px; float:left; text-align:center
+        }
+    h1.Bienvenu
+    {
+        font-family:"Edwardian Script ITC";
+        font-size: 60px;
+        color:rgb(200, 200, 200);
+        text-align:center;
+    }
+    h3.aceuil
+    {
+        font-family:"Edwardian Script ITC";
+        font-size: 30px;
+        color:rgb(200, 200, 200);
+        text-align:center;
+    }
+    h5.email
+    {
+        font-family:"Curlz MT";
+        font-size: 20px;
+        color:rgb(200, 200, 200);
+        text-align:left;
+    }
+    p.present
+    {
+        font-family:"Marker Felt";
+        font-size:20px;
+        color:rgb(200, 200, 200);
+        text-align: left;
+    }
+
+    div.Bienvenu
+    {
+        border:none;
+        padding:10px 20px; 
+        width:700;
+        resize:none;
+        overflow: hidden;
+        margin-bottom: 0px; 
+        margin-left: auto; 
+        margin-right: auto; 
+        margin-top: 0px;
+    }
+    div.aceuil
+    {   
+        border:none;
+        padding:10px 20px; 
+        width:700;
+        resize:none;
+        overflow: hidden;
+        margin-bottom: 0px; 
+        margin-left: auto; 
+        margin-right: auto; 
+        margin-top: 0px;
+    }
+    div.present
+    {   
+        border:none;
+        padding:10px 20px; 
+        width:700;
+        resize:none;
+        overflow: hidden;
+        margin-bottom: 0px; 
+        margin-left: auto; 
+        margin-right: auto; 
+        margin-top: 0px;
+    }
+    div.email
+    {   
+        border:none;
+        padding:10px 20px; 
+        width:700;
+        resize:none;
+        overflow: hidden;
+        margin-bottom: 0px; 
+        margin-left: auto; 
+        margin-right: auto; 
+        margin-top: 0px;
+    }
+
